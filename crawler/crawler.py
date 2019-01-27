@@ -1,8 +1,8 @@
 # https://docs.python.org/2/library/robotparser.html
 import urllib
 import urllib.parse
-from bs4 import BeautifulSoup
 from urllib import robotparser
+from bs4 import BeautifulSoup
 from queue import Queue
 import logging
 """
